@@ -1,1 +1,1 @@
-Commit - v1
+curl -X POST -F 'email=sampl@email.com' -F 'password=mypassword' http://127.0.0.1/auth/login
